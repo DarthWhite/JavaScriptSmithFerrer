@@ -1,2 +1,0 @@
-# JavaScriptSmithFerrer
-Examen final JavaScript
